@@ -1,0 +1,22 @@
+{
+  "name": "SVK CARE",
+  "short_name": "SVK CARE",
+  "description": "គឺជាគេហទំព័រឈានមុខក្នុងការចែករំលែកផលិតផលប្រកបដោយគុណភាពខ្ពស់។",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6f00",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8skkfCq0pmegi_rysfzcP6JB_8D_-X1K0tR9ziHtuUgdxPjCBPc4pWvL2fKuIYnt8mwznOY-vWLvEkj5bv7BhwyMmlBBDjqjGBXD9JeAYLwdSMk_bZ3heHCV3qdeOcEFV2jv957K2-s8IL4rBUIlRGB8mJN9bJYCk2iRIjdKj35DHIKdxZc3ytq0-vrsK/s1600/SVK-CARE-PWA.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG5U5XpWoVqhRt16zFIiaW9Hy-ihyXFYqrEuqSFoloJTqOJpJulVzt_OvdQarxWmkz1oQbpst1lTUV3J3bwJBICegv79-HIFTusu6cERIBiUERy1adn_MwGfKmqv_8VaT1LcjSe_Q5o1BKZ2fPE1t2ZHb_kdVVOimEwdfqH0tu-N2clzoymtaJ4KNBiv1Q/s1600/SVK-CARE-PWA1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
