@@ -1,7 +1,7 @@
 
 <JavaScript>
 
-const CACHE_NAME = 'gm-time-cache-v1';
+const CACHE_NAME = 'gm-shop-cache-v1';
 const urlsToCache = [
   '/',
   '/?utm_source=pwa',
